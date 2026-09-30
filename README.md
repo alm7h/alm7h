@@ -18,7 +18,7 @@ I'm a 4th-year Computer Science student at **HTW Berlin** with a solid foundatio
 
 - **Currently looking for:** A Werkstudent position in IT
 - **Open to:** Software development and other IT roles, wherever I can contribute and grow
-- **Languages:** German (C1), English (C1), Arabic
+- **Languages:** Arabic, German (C1), English (C1)
 - **Location:** Berlin, Germany
 
 I'm looking for a team where I can apply my academic fundamentals to real production work, learn from experienced engineers, and contribute from day one.
@@ -40,14 +40,18 @@ I'm looking for a team where I can apply my academic fundamentals to real produc
 
 **Frameworks & Libraries**
 
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Testing & Build**
+**Testing, Quality & Build**
 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
+![JaCoCo](https://img.shields.io/badge/JaCoCo-D22128?style=for-the-badge)
+![SpotBugs](https://img.shields.io/badge/SpotBugs-4B8BBE?style=for-the-badge)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 **Tools & DevOps**
 
@@ -71,21 +75,24 @@ I'm looking for a team where I can apply my academic fundamentals to real produc
 ### Banksystem
 *Semester-long university project*
 
-Designed and developed a mobile application for managing account data, transfers, and security features, covering the full cycle from concept and design to implementation and testing.
+Java 21 application that models a banking domain (accounts, customers, money, currencies) with a JavaFX user interface, built as a production-style Maven project.
 
-- **Scope:** Account management, money transfers, security functions
-- **Tech:** Java · Maven · JUnit · Mockito
-- **Quality:** Unit tests with JUnit, dependencies isolated with Mockito
+- **Domain:** Multiple account types (checking, savings, fixed-term, children's account) with deposits, withdrawals, and transfers, plus bank-level queries across accounts and customers
+- **Design:** Factory pattern for account creation, custom domain exceptions, collections and streams, persistence via Java serialization
+- **UI:** JavaFX with FXML and a controller connecting view and model
+- **Tech:** Java 21 · JavaFX · Maven · JUnit 5 · Mockito
+- **Quality:** Unit tests with JUnit 5 and Mockito, coverage reports with JaCoCo, static analysis with SpotBugs, generated Javadoc
 - **Code:** [github.com/alm7h/Bankproject](https://github.com/alm7h/Bankproject)
 
 ### HabitLab
-*Solo project for the modules Mobile Betriebssysteme und Netzwerke*
+*Solo project for the module Mobile Betriebssysteme und Netzwerke*
 
-Developed an Android application for managing daily habits and tasks, built with a modern declarative UI and a clean architecture.
+Native, fully offline-capable Android app for tracking daily habits, with streak calculation, a statistics dashboard, and a GitHub-style activity heatmap.
 
-- **Scope:** Habit and task tracking on Android
-- **Tech:** Kotlin · Jetpack Compose · MVVM · Room
-- **Quality:** Unit tests, integration tests, and end-to-end (E2E) tests
+- **Architecture:** MVVM with the Repository pattern, API-first design with interfaces defined up front, reactive data flow with StateFlow
+- **Data:** Room/SQLite with three relational tables, foreign keys, unique constraints, and cascading deletes
+- **Tech:** Kotlin · Jetpack Compose · MVVM · Room · Gradle
+- **Quality:** Test pyramid with unit tests (mocked DAOs), integration tests (in-memory Room database), and end-to-end tests of full user flows in the Compose UI
 - **Role:** Sole developer, responsible for design, implementation, and testing
 - **Code:** [github.com/alm7h/Habitlab](https://github.com/alm7h/Habitlab)
 
