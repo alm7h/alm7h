@@ -18,7 +18,7 @@ I'm a 4th-year Computer Science student at **HTW Berlin** with a solid foundatio
 
 - **Currently looking for:** A Werkstudent position in IT
 - **Open to:** Software development and other IT roles, wherever I can contribute and grow
-- **Languages:** German (C1), English (C1)
+- **Languages:** German (C1), English (C1), Arabic
 - **Location:** Berlin, Germany
 
 I'm looking for a team where I can apply my academic fundamentals to real production work, learn from experienced engineers, and contribute from day one.
