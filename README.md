@@ -1,16 +1,100 @@
-## Hi there 👋
+<h1 align="center">Mohameed Al-Harethi</h1>
 
-<!--
-**alm7h/alm7h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Computer Science student at HTW Berlin<br>
+  Currently seeking a working student (Werkstudent) position in IT
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-al-harethi">LinkedIn</a> ·
+  <a href="mailto:m.alharethi2000@gmail.com">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm a 4th-year Computer Science student at **HTW Berlin** with a solid foundation in object-oriented programming, databases, and application development. My coursework and projects have focused on building structured, well-tested software in **Java**, **Kotlin**, and **Python**, using relational data models in **SQL/PostgreSQL**.
+
+- **Currently looking for:** A Werkstudent position in IT
+- **Open to:** Software development and other IT roles, wherever I can contribute and grow
+- **Languages:** German (C1), English (C1)
+- **Location:** Berlin, Germany
+
+I'm looking for a team where I can apply my academic fundamentals to real production work, learn from experienced engineers, and contribute from day one.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**Testing & Build**
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**IDEs & Editors**
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+**Platforms:** Linux · Windows · macOS
+
+---
+
+## Featured Projects
+
+### Banksystem
+*Semester-long university project*
+
+Designed and developed a mobile application for managing account data, transfers, and security features, covering the full cycle from concept and design to implementation and testing.
+
+- **Scope:** Account management, money transfers, security functions
+- **Tech:** Java · Maven · JUnit · Mockito
+- **Quality:** Unit tests with JUnit, dependencies isolated with Mockito
+- **Code:** [github.com/alm7h/Bankproject](https://github.com/alm7h/Bankproject)
+
+### HabitLab
+*Solo project for the modules Mobile Betriebssysteme und Netzwerke*
+
+Developed an Android application for managing daily habits and tasks, built with a modern declarative UI and a clean architecture.
+
+- **Scope:** Habit and task tracking on Android
+- **Tech:** Kotlin · Jetpack Compose · MVVM · Room
+- **Quality:** Unit tests, integration tests, and end-to-end (E2E) tests
+- **Role:** Sole developer, responsible for design, implementation, and testing
+- **Code:** [github.com/alm7h/Habitlab](https://github.com/alm7h/Habitlab)
+
+---
+
+## Let's Connect
+
+I'm happy to talk about working student opportunities, engineering challenges, or my projects.
+
+- LinkedIn: [linkedin.com/in/m-al-harethi](https://www.linkedin.com/in/m-al-harethi)
+- Email: [m.alharethi2000@gmail.com](mailto:m.alharethi2000@gmail.com)
+- GitHub: [github.com/alm7h](https://github.com/alm7h)
