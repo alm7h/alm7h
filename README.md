@@ -102,6 +102,6 @@ Native, fully offline-capable Android app for tracking daily habits, with streak
 
 I'm happy to talk about working student opportunities, engineering challenges, or my projects.
 
-- LinkedIn: [linkedin.com/in/m-al-harethi](https://www.linkedin.com/in/m-alharethi)
+- LinkedIn: [linkedin.com/in/m-alharethi](https://www.linkedin.com/in/m-alharethi)
 - Email: [m.alharethi2000@gmail.com](mailto:m.alharethi2000@gmail.com)
 - GitHub: [github.com/alm7h](https://github.com/alm7h)
