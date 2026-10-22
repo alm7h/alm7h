@@ -2,7 +2,6 @@
 
 <p align="center">
   Computer Science student at HTW Berlin<br>
-  Currently seeking a working student (Werkstudent) position in IT
 </p>
 
 <p align="center">
@@ -16,12 +15,9 @@
 
 I'm a 4th-year Computer Science student at **HTW Berlin** with a solid foundation in object-oriented programming, databases, and application development. My coursework and projects have focused on building structured, well-tested software in **Java**, **Kotlin**, and **Python**, using relational data models in **SQL/PostgreSQL**.
 
-- **Currently looking for:** A Werkstudent position in IT
 - **Open to:** Software development and other IT roles, wherever I can contribute and grow
 - **Languages:** Arabic, German (C1), English (C1)
 - **Location:** Berlin, Germany
-
-I'm looking for a team where I can apply my academic fundamentals to real production work, learn from experienced engineers, and contribute from day one.
 
 ---
 
