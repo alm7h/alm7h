@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a 4th-year Computer Science student at **HTW Berlin** with a solid foundation in object-oriented programming, databases, and application development. My coursework and projects have focused on building structured, well-tested software in **Java**, **Kotlin**, and **Python**, using relational data models in **SQL/PostgreSQL**.
+I'm a 4th-year Computer Science student at **HTW Berlin** with a solid foundation in object-oriented programming, databases, and application development. My coursework and projects have focused on building structured, well-tested software in **Java**, **Kotlin**, and **Python**, using relational data models in **SQL/PostgreSQL**, along with web fundamentals in **HTML** and **CSS**.
 
 - **Open to:** Software development and other IT roles, wherever I can contribute and grow
 - **Languages:** Arabic, German (C1), English (C1)
@@ -28,6 +28,8 @@ I'm a 4th-year Computer Science student at **HTW Berlin** with a solid foundatio
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Databases**
@@ -68,8 +70,7 @@ I'm a 4th-year Computer Science student at **HTW Berlin** with a solid foundatio
 
 ## Featured Projects
 
-### Banksystem
-*Semester-long university project*
+### Bankproject
 
 Java 21 application that models a banking domain (accounts, customers, money, currencies) with a JavaFX user interface, built as a production-style Maven project.
 
@@ -81,7 +82,6 @@ Java 21 application that models a banking domain (accounts, customers, money, cu
 - **Code:** [github.com/alm7h/Bankproject](https://github.com/alm7h/Bankproject)
 
 ### HabitLab
-*Solo project for the module Mobile Betriebssysteme und Netzwerke*
 
 Native, fully offline-capable Android app for tracking daily habits, with streak calculation, a statistics dashboard, and a GitHub-style activity heatmap.
 
